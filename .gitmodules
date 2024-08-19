@@ -1,3 +1,6 @@
 [submodule "Ram-Bnk"]
 	path = Ram-Bnk
 	url = https://github.com/KAJA-MOIDEEN/Ram-Bnk.git
+[submodule "Ecommerce-Website-Using-Python-Flask"]
+	path = Ecommerce-Website-Using-Python-Flask
+	url = https://github.com/KAJA-MOIDEEN/Ecommerce-Website-Using-Python-Flask.git
